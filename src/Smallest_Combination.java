@@ -3,6 +3,7 @@ import entities.Pair;
 
 public class Smallest_Combination {
 	
+	// This code returns the smallest sum of the prime factorizations of a given number
 	public static int computeSmallestValue(int num) {
 		ArrayList<Pair> al = new ArrayList<Pair>();
 		
